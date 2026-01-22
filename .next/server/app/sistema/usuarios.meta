@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(dashboard)/layout,_N_T_/(dashboard)/sistema/layout,_N_T_/(dashboard)/sistema/usuarios/layout,_N_T_/(dashboard)/sistema/usuarios/page,_N_T_/sistema/usuarios"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGRhc2hib2FyZCk/sistema/usuarios/__PAGE__",
+    "/!KGRhc2hib2FyZCk/sistema/usuarios",
+    "/!KGRhc2hib2FyZCk/sistema",
+    "/!KGRhc2hib2FyZCk",
+    "/_index",
+    "/_head"
+  ]
+}

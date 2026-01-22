@@ -1,0 +1,3 @@
+{
+  "/(dashboard)/finanzas/facturas/[id]/editar/page": "app/(dashboard)/finanzas/facturas/[id]/editar/page.js"
+}

@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(dashboard)/layout,_N_T_/(dashboard)/finanzas/layout,_N_T_/(dashboard)/finanzas/pagos/layout,_N_T_/(dashboard)/finanzas/pagos/page,_N_T_/finanzas/pagos"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGRhc2hib2FyZCk/finanzas/pagos/__PAGE__",
+    "/!KGRhc2hib2FyZCk/finanzas/pagos",
+    "/!KGRhc2hib2FyZCk/finanzas",
+    "/!KGRhc2hib2FyZCk",
+    "/_index",
+    "/_head"
+  ]
+}
